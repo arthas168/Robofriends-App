@@ -15,13 +15,13 @@ export const robots = [
       id: 3,
       name: 'Elcho',
       username: 'Samantha',
-      email: 'Nathan@yesenia.net'
+      email: 'elcho@sladurcheto.net'
     },
     {
       id: 4,
       name: 'Pitkov',
       username: 'Karianne',
-      email: 'Julianne.OConner@kory.org'
+      email: 'pitko.obcha@.org'
     },
     {
       id: 5,
@@ -58,5 +58,11 @@ export const robots = [
       name: 'Clementina DuBuque',
       username: 'Moriah.Stanton',
       email: 'Rey.Padberg@karina.biz'
+    },
+    {
+      id: 11,
+      name: 'Zuzi',
+      username: 'velizuza',
+      email: 'velizuza@biz.com'
     }
   ];

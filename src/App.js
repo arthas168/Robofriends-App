@@ -8,9 +8,13 @@ class App extends React.Component {
   constructor() {
     super();
     this.state = {
-      robots: robots,
+      robots: [],
       searchfield: ""
     };
+  }
+
+  componentDidMount(){
+    console.log("check");
   }
 
   onSearchChange = event => {
